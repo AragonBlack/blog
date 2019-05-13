@@ -1,0 +1,16 @@
+{
+  "name": "aragon-black",
+  "version": "1.0.0",
+  "engines": {
+    "ghost-api": "v2"
+  },
+  "author": {
+    "email": "hello@aragon.black"
+  },
+  "config": {
+    "posts_per_page": 8
+  },
+  "keywords": [
+    "ghost-theme"
+  ]
+}
